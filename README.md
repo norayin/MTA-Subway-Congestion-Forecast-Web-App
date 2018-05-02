@@ -7,4 +7,4 @@ Subway congestion has become one of the main factors that lower the efficiency o
 Other than the R code and plots that you can view directly in this repository, the following links provide you access to my Shiny app and final report.
 
 - [Shiny App Link](https://yinuoyin.shinyapps.io/shinyapp/)
-- [Final Report Link)](http://rpubs.com/norayin/mtacongestion)  
+- [Final Report Link](http://rpubs.com/norayin/mtacongestion)  
